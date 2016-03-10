@@ -1,0 +1,28 @@
+name: w4
+favicon: null
+layout_spectrum: 0.670476745814085
+typography_spectrum: 0.660804885905236
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.35651436797343194
+  lightness: 0.9912554118782282
+  saturation: 0.18151606968604028
+  rhythmicContrast: 0.7771431498695165
+purpose: []
